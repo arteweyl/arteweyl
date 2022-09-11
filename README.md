@@ -64,6 +64,8 @@ _Eu sou uma física que programa!_  Eu passei minha graduação estudando como m
 
   
 
+#That's It Folks!
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## 

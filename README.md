@@ -1,4 +1,4 @@
-## Hello There! I'm Artemisia Weyl || Fala Galera, me chamo Artemisia Weyl
+## Hello There! I'm Artemisia Weyl || Fala galera, me chamo Artemisia Weyl
 
 _I am a physicist that's code!_ I did all my first studyning how to improve data storage with new materials. Now I'm doing a second Degree on **Computer Engineering** and my favorite topics are **fullstack development and data engineering!**
 

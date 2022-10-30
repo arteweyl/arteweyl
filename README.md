@@ -1,6 +1,6 @@
 ## Hello There! I'm Artemisia Weyl || Fala galera, me chamo Artemisia Weyl
 
-_I am a physicist that's code!_ I did all my first studying how to improve data storage with new materials and Quantum Computing. Now I'm doing a second Degree on **Computer Engineering** and my favorite topics are **Data Science and data engineering!**
+_I am a physicist that's code!_ I did all my first studying  Quantum Computing and how to improve data storage with new materials. Now I'm doing a second Degree on **Computer Engineering** and my favorite topics are **Data Science and data engineering!**
 
 _Eu sou uma física que programa!_  Eu passei minha graduação estudando como melhorar a capacidade de armazenamento com novos materiais. Agora estou fazendo uma segunda graduação em **engenharia da computação** e os assuntos que mais me interesso são **ciência e engenharia de dados**
 

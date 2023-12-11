@@ -17,11 +17,6 @@ _Eu sou uma física que programa!_  Eu passei minha graduação estudando Comput
 
 
 
-### **Markup and Style Languages|| Linguagens de marcação e  Estilo**
-
-| <img align="center" alt="arte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="arte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img align="center" alt="arte-Latex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> | <img align="center" alt="arte-Markdown" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-
 ### **Back-End KnowLedge || Conhecimento Back-End**
 
 | <img align="center" alt="arte-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> | <img align="center" alt="arte-NodeJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> | <img align="center" alt="arte-NodeJs" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> | <img  align="center" alt="arte-NodeJs" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" /> |
@@ -37,15 +32,23 @@ _Eu sou uma física que programa!_  Eu passei minha graduação estudando Comput
 | <img align="center" alt="arte-SQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> | <img align="center" alt="arte-mongoDB" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-### **Tools** || Ferramentas
+### **ETL** 
+| <img align="center" alt="arte-Jenkins" height="40" width="40"  src="https://private-user-images.githubusercontent.com/63889308/289572961-a54d7a22-f40b-4667-a0aa-eb8116324b13.png"> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://media.github.ibm.com/user/421912/files/b4e26b72-c1bb-44d6-bcd3-debfc65fe224"> | 
+<img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-| <img align ="center" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> | <img align="center" alt="arte-ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> | <img   align="center" alt="arte-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> | <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img   align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" /> |
+
+### **DevOps** 
+<img title="Docker" align="center" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img align="center" alt="arte-kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> |<img fill="white" align="center" alt="arte-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+| <img align="center" alt="arte-Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> <img align="center" alt="arte-Jenkins" height="40" width="40"  src="https://private-user-images.githubusercontent.com/63889308/289572961-a54d7a22-f40b-4667-a0aa-eb8116324b13.png"> | <img align="center" alt="arte-Travis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" />
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+
+### **Tools** || Ferramentas
+| <img align ="center" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> | <img align="center" alt="arte-ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> | <img   align="center" alt="arte-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> | <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img   align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-# 
 
 ## Github Status
-
 
 
 <div align="center">
@@ -67,5 +70,3 @@ _Eu sou uma física que programa!_  Eu passei minha graduação estudando Comput
 # That's It Folks!
 
   ![Snake animation](https://github.com/arteweyl/arteweyl/blob/output/github-contribution-grid-snake.svg)
-
-## 

@@ -55,11 +55,10 @@ _Eu sou uma física que programa!_  Eu passei minha graduação estudando Comput
 <div align="center">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arteweyl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
-
-
 
 
   ## Contact Me ||  Entre em Contato
   <a href = "mailto:arteweyl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arteweyl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/arteweyl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>

@@ -25,27 +25,29 @@ _Eu sou uma física que programa!_  Eu passei minha graduação estudando Comput
 ### **Cloud**
 
 | <img align = "left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> | <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" > |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 
 ### **Databases** 
 
 | <img align="center" alt="arte-SQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> | <img align="center" alt="arte-mongoDB" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 
 ### **ETL** 
 | <img align="center" alt="arte-Jenkins" height="40" width="40"  src="https://private-user-images.githubusercontent.com/63889308/289572961-a54d7a22-f40b-4667-a0aa-eb8116324b13.png"> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://media.github.ibm.com/user/421912/files/b4e26b72-c1bb-44d6-bcd3-debfc65fe224"> | 
-<img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+<img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
 ### **DevOps** 
 <img title="Docker" align="center" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img align="center" alt="arte-kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> |<img fill="white" align="center" alt="arte-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-| <img align="center" alt="arte-Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> <img align="center" alt="arte-Jenkins" height="40" width="40"  src="https://private-user-images.githubusercontent.com/63889308/289572961-a54d7a22-f40b-4667-a0aa-eb8116324b13.png"> | <img align="center" alt="arte-Travis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" />
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img align="center" alt="arte-Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> <img align="center" alt="arte-Jenkins" height="40" width="40"  src="https://private-user-images.githubusercontent.com/63889308/289572961-a54d7a22-f40b-4667-a0aa-eb8116324b13.png"> | <img align="center" alt="arte-Travis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ### **Tools** || Ferramentas
 | <img align ="center" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> | <img align="center" alt="arte-ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> | <img   align="center" alt="arte-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> | <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img   align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
 ## Github Status

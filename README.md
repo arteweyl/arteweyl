@@ -1,8 +1,8 @@
 ## Hello There! I'm Artemisia Weyl || Fala galera, me chamo Artemisia Weyl
 
-_I am a physicist that's code!_ I did all my first studying  Quantum Computing and how to improve data storage with new (quantum) nanomaterials. Now I'm doing a second Degree on **Computer Engineering** and my favorite topics are **Data Science and data engineering!**
+I studied Physics as major and computer engineering as minor. I worked as Jr. researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **machine learning and data reliability**
 
-_Eu sou uma física que programa!_  Eu passei minha graduação estudando Computação quântica e  como melhorar a capacidade de armazenamento com novos nanomateriais(novamente  quânticos). Agora estou fazendo uma segunda graduação em **engenharia da computação** e os assuntos que mais me interesso são **ciência e engenharia de dados**
+Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pesquisadora Jr em cência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenharia de dados** e os assuntos que mais me interesso são **machine learning e data reliability**.
 
 
 

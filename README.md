@@ -1,8 +1,8 @@
 ## Hello There! I'm Artemisia Weyl || Fala galera, me chamo Artemisia Weyl
 
-I studied Physics as major and computer engineering as minor. I worked as Jr. researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **machine learning and data reliability**
+I studied Physics as major and computer engineering as minor. I worked as Researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **machine learning and data reliability**
 
-Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pesquisadora Jr em cência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenharia de dados** e os assuntos que mais me interesso são **machine learning e data reliability**.
+Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pesquisadora em cência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenheira de dados** e os assuntos que mais me interesso são **machine learning e data reliability**.
 
 
 

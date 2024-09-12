@@ -32,7 +32,7 @@ Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pe
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
-### **ETL** 
+### **Data Manipulation** 
 
 | <img align="center" alt="arte-Pandas" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://media.github.ibm.com/user/421912/files/b4e26b72-c1bb-44d6-bcd3-debfc65fe224"> | <img align="center" alt="sql-alchemy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |

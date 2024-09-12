@@ -18,7 +18,7 @@ Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pe
 
 ### **Back-End KnowLedge || Conhecimento Back-End**
 
-| <img align="center" alt="arte-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  /> | <img align="center" alt="arte-dotNet" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> | <img align="center" alt="arte-FASTAPI" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /> | <img  align="center" alt="arte-NodeJs" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" /> |
+| <img align="center" alt="arte-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  /> | <img align="center" alt="arte-dotNet" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> | <img align="center" alt="arte-FASTAPI" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /> | <img  align="center" alt="django" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ### **Cloud**

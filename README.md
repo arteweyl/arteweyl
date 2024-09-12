@@ -34,8 +34,16 @@ Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pe
 
 ### **ETL** 
 
-| <img align="center" alt="arte-Pandas" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> | <img align="center" alt="arte-airflow" height="40" width="40"  src="https://media.github.ibm.com/user/421912/files/fd244221-d6dc-4e47-8a23-ca0cddd0aedf"> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://media.github.ibm.com/user/421912/files/b4e26b72-c1bb-44d6-bcd3-debfc65fe224"> | <img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img align="center" alt="arte-Pandas" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://media.github.ibm.com/user/421912/files/b4e26b72-c1bb-44d6-bcd3-debfc65fe224"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+
+### **Data/task Orquestration** 
+ |<img align="center" alt="arte-airflow" height="40" width="40"  src="https://media.github.ibm.com/user/421912/files/fd244221-d6dc-4e47-8a23-ca0cddd0aedf"> |
+ |:----------------------------------------------------------: |
+
+### **Data Stream and Broker** 
+| <img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> |
+| :----------------------------------------------------------: |
 
 ### **DevOps** 
 | <img title="Docker" align="center" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img align="center" alt="arte-kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> | <img fill="white" align="center" alt="arte-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> | <img align="center" alt="arte-Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> | <img align="center" alt="arte-Travis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" /> | <img align="center" alt="arte-azuredevops" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /> |

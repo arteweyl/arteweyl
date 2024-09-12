@@ -39,8 +39,8 @@ Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pe
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ### **Data/task Orquestration** 
- |<img align="center" alt="arte-airflow" height="40" width="40"  src="https://media.github.ibm.com/user/421912/files/fd244221-d6dc-4e47-8a23-ca0cddd0aedf"> |
- |:----------------------------------------------------------: |
+ |<img align="center" alt="arte-airflow" height="40" width="40"  src="https://media.github.ibm.com/user/421912/files/fd244221-d6dc-4e47-8a23-ca0cddd0aedf"> |<img align="center" alt="databricks" height="40" width="40"  src="https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png"> |
+ |:----------------------------------------------------------: |:----------------------------------------------------------: |
 
 ### **Data Stream and Broker** 
 | <img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> |

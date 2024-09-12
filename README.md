@@ -23,6 +23,9 @@ Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pe
 
 ### **Cloud**
 
+| <img align = "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> | <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" > | <img align="center" alt="arte-Azure" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /> | <img  align="center" alt="GCP" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 | <img align = "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> | <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" > |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 

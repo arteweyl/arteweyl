@@ -28,8 +28,8 @@ Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pe
 
 ### **Databases** 
 
-| <img align="center" alt="arte-SQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> | <img align="center" alt="arte-mongoDB" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img align="center" alt="arte-SQLserver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" > | <img align="center" alt="arte-mongoDB" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img align="center" alt="arte-Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
 ### **ETL** 

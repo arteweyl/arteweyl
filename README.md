@@ -2,7 +2,7 @@
 
 I studied Physics as major and computer engineering as minor. I worked as Researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **machine learning and data reliability**
 
-Eu estudei bacharelado em física e engenharia da computacão. Trabalhei como pesquisadora em ciência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenheira de dados** e os assuntos que mais me interesso são **machine learning e data reliability**.
+Eu estudei bacharelado em física e engenharia da computacão.Atuo como professora de programação em dados. Trabalhei como pesquisadora em ciência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenheira de dados** e os assuntos que mais me interesso são **Dataops e data reliability**.
 
 
 ##  My Skill Set || Minhas Habilidades :computer:

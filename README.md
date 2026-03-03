@@ -1,8 +1,8 @@
 ## Hello There! I'm Artemisia Weyl || Fala galera, me chamo Artemisia Weyl
 
-I studied Physics as major and computer engineering as minor. I worked as Researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **machine learning and data reliability**
+I studied Physics as major and computer engineering as minor. I worked as Researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **Machine learning and Data Reliability**
 
-Eu estudei bacharelado em física e engenharia da computacão.Atuo como professora de programação em dados. Trabalhei como pesquisadora em ciência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenheira de dados** e os assuntos que mais me interesso são **Dataops e data reliability**.
+Eu estudei bacharelado em física e engenharia da computacão.Atuo como professora de programação em dados. Trabalhei como pesquisadora em ciência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenheira de dados** e os assuntos que mais me interesso são **Machine Learning e  eConfiabilidade dos Dados**.
 
 
 ##  My Skill Set || Minhas Habilidades :computer:
@@ -35,12 +35,12 @@ Eu estudei bacharelado em física e engenharia da computacão.Atuo como professo
 
 ### **Data Manipulation** 
 
-| <img align="center" alt="arte-Pandas" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://media.github.ibm.com/user/421912/files/b4e26b72-c1bb-44d6-bcd3-debfc65fe224"> | <img align="center" alt="sql-alchemy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"> |
+| <img align="center" alt="arte-Pandas" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png"> | <img align="center" alt="sql-alchemy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ### **Data/task Orquestration** 
- |<img align="center" alt="arte-airflow" height="40" width="40"  src="https://media.github.ibm.com/user/421912/files/fd244221-d6dc-4e47-8a23-ca0cddd0aedf"> |<img align="center" alt="databricks" height="40" width="60"  src="https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png"> |
- |:----------------------------------------------------------: |:----------------------------------------------------------: |
+ |<img align="center" alt="arte-airflow" height="40" width="40"  src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg"> |<img align="center" alt="databricks" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/databricks.svg"> |<img align="center" alt="prefect" height="40" width="60"  src="https://paper-attachments.dropboxusercontent.com/s_0B09DC0A12ED6A31739AC53B97AD0EF9B45C83D3DDACEA36946D2E549C502A90_1769993702216_idbe8ocH5o_logos.jpeg"> 
+ |:----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------:|
 
 ### **Data Stream and Broker** 
 | <img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> |

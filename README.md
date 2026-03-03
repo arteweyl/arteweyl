@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/generated/galaxy-header-artemisia-weyl.svg" width="850" alt="Galaxy Header"/>
+</div>
+
 ## Hello There! I'm Artemisia Weyl || Fala galera, me chamo Artemisia Weyl
 
 I studied Physics as major and computer engineering as minor. I worked as Researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **Machine learning and Data Reliability**

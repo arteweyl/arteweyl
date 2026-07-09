@@ -52,14 +52,30 @@ I am a data engineer with a Physics background and Computer Engineering studies.
   <img alt="Fortran" src="https://img.shields.io/badge/Fortran-111827?style=for-the-badge&logo=fortran&logoColor=ffb020"/>
 </p>
 
-### Data Platform
+### Data Engineering Platform
 
 <p>
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=ffb020"/>
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=ff5f57"/>
+  <img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-111827?style=for-the-badge&logo=delta&logoColor=00d4ff"/>
   <img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=00d4ff"/>
   <img alt="Prefect" src="https://img.shields.io/badge/Prefect-111827?style=for-the-badge&logo=prefect&logoColor=a78bfa"/>
+  <img alt="Dagster" src="https://img.shields.io/badge/Dagster-111827?style=for-the-badge&logo=dagster&logoColor=a78bfa"/>
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=ffffff"/>
+  <img alt="Airbyte" src="https://img.shields.io/badge/Airbyte-111827?style=for-the-badge&logo=airbyte&logoColor=00d4ff"/>
+</p>
+
+### DataOps and Reliability
+
+<p>
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-111827?style=for-the-badge&logo=dbt&logoColor=ffb020"/>
+  <img alt="Great Expectations" src="https://img.shields.io/badge/Great%20Expectations-111827?style=for-the-badge&logo=great-expectations&logoColor=00d4ff"/>
+  <img alt="Soda" src="https://img.shields.io/badge/Soda-111827?style=for-the-badge&logoColor=00d4ff"/>
+  <img alt="OpenLineage" src="https://img.shields.io/badge/OpenLineage-111827?style=for-the-badge&logoColor=a78bfa"/>
+  <img alt="DataHub" src="https://img.shields.io/badge/DataHub-111827?style=for-the-badge&logoColor=00d4ff"/>
+  <img alt="Apache Superset" src="https://img.shields.io/badge/Superset-111827?style=for-the-badge&logo=apachesuperset&logoColor=ff5f57"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=00d4ff"/>
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </p>
 
 ### Databases
@@ -70,6 +86,20 @@ I am a data engineer with a Physics background and Computer Engineering studies.
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=34d399"/>
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00d4ff"/>
   <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-111827?style=for-the-badge&logo=amazondynamodb&logoColor=ffb020"/>
+</p>
+
+### MLOps and Applied ML
+
+<p>
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=00d4ff"/>
+  <img alt="Kubeflow" src="https://img.shields.io/badge/Kubeflow-111827?style=for-the-badge&logo=kubeflow&logoColor=a78bfa"/>
+  <img alt="DVC" src="https://img.shields.io/badge/DVC-111827?style=for-the-badge&logo=dvc&logoColor=ff5f57"/>
+  <img alt="Evidently" src="https://img.shields.io/badge/Evidently-111827?style=for-the-badge&logoColor=ffb020"/>
+  <img alt="BentoML" src="https://img.shields.io/badge/BentoML-111827?style=for-the-badge&logoColor=00d4ff"/>
+  <img alt="Optuna" src="https://img.shields.io/badge/Optuna-111827?style=for-the-badge&logoColor=a78bfa"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=ffb020"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=ff5f57"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=ffb020"/>
 </p>
 
 ### Back-End and APIs
@@ -103,6 +133,8 @@ I am a data engineer with a Physics background and Computer Engineering studies.
 ```text
 research roots       -> physics, materials science, quantum computing materials
 engineering focus    -> data pipelines, cloud platforms, orchestration, reliability
+dataops mindset      -> quality checks, lineage, CI/CD, observability, reproducibility
+mlops practice       -> experiment tracking, model versioning, serving, drift monitoring
 teaching practice    -> programming, Python, SQL, ML, People Analytics
 favorite problems    -> trustworthy data, applied ML, robust workflows
 ```

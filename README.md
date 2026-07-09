@@ -1,72 +1,116 @@
 <div align="center">
-  <img src="./assets/generated/galaxy-header-artemisia-weyl.svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/generated/galaxy-header-artemisia-weyl.svg" width="900" alt="Artemisia Weyl - Data Engineer galaxy header"/>
 </div>
 
-## Hello There! I'm Artemisia Weyl || Fala galera, me chamo Artemisia Weyl
+<br>
 
-I studied Physics as major and computer engineering as minor. I worked as Researcher in materiais science, in special quantum Computing materials. Now I'm working as **data engineer** and my favorite topics are **Machine learning and Data Reliability**
+<div align="center">
 
-Eu estudei bacharelado em física e engenharia da computacão.Atuo como professora de programação em dados. Trabalhei como pesquisadora em ciência de materiais, especialmente no estudo de materiais de computação quântica. Agora atuo como **engenheira de dados** e os assuntos que mais me interesso são **Machine Learning e  e Confiabilidade dos Dados**.
+# Artemisia Weyl
 
-Sou também **professora de Programação**, Já dei aulas na **Byjus Future School**, **Coderhouse Brasil** Onde eu fui uma das Criadoras de COnteúdo relacionado a Python, SQL e Machine Learning e atualmente sou professora na *PUCRS* das disciplinas de laboratório prático de programação e People Analytics.
+**Data Engineer | Programming Professor | Physics background**
 
+`data reliability` · `machine learning` · `data platforms` · `cloud` · `scientific thinking`
 
-##  My Skill Set || Minhas Habilidades :computer:
+<a href="mailto:arteweyl@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0b1020?style=for-the-badge&logo=gmail&logoColor=ffb020&labelColor=111827" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/arteweyl/">
+  <img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=111827" alt="LinkedIn"/>
+</a>
 
+</div>
 
+---
 
-###  **Programming Languages** || Linguagens de Programação
+## Mission Log
 
-| <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> | <img align="center" alt="Scala" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" > | <img align="center" alt="arte-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img align="center" alt="Fortran" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+Sou engenheira de dados com formação em Física e passagem por Engenharia da Computação. Minha trajetória começou em pesquisa em ciência de materiais, com interesse especial em materiais para computação quântica, e hoje orbita engenharia de dados, confiabilidade, machine learning e educação em tecnologia.
 
+Atuo também como professora de programação e dados. Já lecionei na Byjus Future School, fui uma das criadoras de conteúdo na Coderhouse Brasil em Python, SQL e Machine Learning, e atualmente leciono na PUCRS em disciplinas de laboratório prático de programação e People Analytics.
 
+I am a data engineer with a Physics background and Computer Engineering studies. I have worked as a materials science researcher, especially with quantum computing materials, and now focus on data engineering, data reliability and machine learning.
 
-### **Back-End KnowLedge || Conhecimento Back-End**
+## Current Orbit
 
-| <img align="center" alt="arte-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"  /> | <img align="center" alt="arte-dotNet" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> | <img align="center" alt="arte-FASTAPI" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" /> | <img  align="center" alt="django" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Area | What I do |
+| :--- | :--- |
+| Data Engineering | Build and maintain pipelines, data workflows and reliable data platforms. |
+| Teaching | Teach programming, data practices and analytical thinking for technical audiences. |
+| Machine Learning | Connect data foundations with practical ML experimentation and delivery. |
+| Scientific Computing | Bring physics, numerical thinking and research discipline into software and data work. |
 
-### **Cloud**
+## Tech Constellation
 
-| <img align = "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> | <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" > | <img  align="center" alt="GCP" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+### Languages
 
-### **Databases** 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00d4ff"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=00d4ff"/>
+  <img alt="Scala" src="https://img.shields.io/badge/Scala-111827?style=for-the-badge&logo=scala&logoColor=ff5f57"/>
+  <img alt="C" src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=a78bfa"/>
+  <img alt="Fortran" src="https://img.shields.io/badge/Fortran-111827?style=for-the-badge&logo=fortran&logoColor=ffb020"/>
+</p>
 
-| <img align="center" alt="arte-SQLserver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" > | <img align="center" alt="arte-mongoDB" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img align="center" alt="arte-Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> | <img align="center" alt="arte-sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"> | <img align="center" alt="dynamoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+### Data Platform
 
+<p>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=ffb020"/>
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=ff5f57"/>
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=00d4ff"/>
+  <img alt="Prefect" src="https://img.shields.io/badge/Prefect-111827?style=for-the-badge&logo=prefect&logoColor=a78bfa"/>
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=ffffff"/>
+</p>
 
+### Databases
 
-### **Data Manipulation** 
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=00d4ff"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff5f57"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=34d399"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00d4ff"/>
+  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-111827?style=for-the-badge&logo=amazondynamodb&logoColor=ffb020"/>
+</p>
 
-| <img align="center" alt="arte-Pandas" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> | <img align="center" alt="arte-Spark" height="40" width="40" src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png"> | <img align="center" alt="sql-alchemy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+### Back-End and APIs
 
-### **Data/task Orquestration** 
- |<img align="center" alt="arte-airflow" height="40" width="40"  src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg"> |<img align="center" alt="databricks" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/databricks.svg"> |<img align="center" alt="prefect" height="40" width="60"  src="https://paper-attachments.dropboxusercontent.com/s_0B09DC0A12ED6A31739AC53B97AD0EF9B45C83D3DDACEA36946D2E549C502A90_1769993702216_idbe8ocH5o_logos.jpeg"> 
- |:----------------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------:|
+<p>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00d4ff"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=ffffff"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=34d399"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=a78bfa"/>
+</p>
 
-### **Data Stream and Broker** 
-| <img align="center" alt="arte-Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> |
-| :----------------------------------------------------------: |
+### Cloud, DevOps and Tools
 
-### **DevOps** 
-| <img title="Docker" align="center" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img align="center" alt="arte-kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> | <img fill="white" align="center" alt="arte-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> | <img align="center" alt="arte-Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> | <img align="center" alt="arte-Travis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" /> | <img align="center" alt="arte-azuredevops" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /> |<img align="center" alt="arte-terraform" height="40" width="40" src="https://img.icons8.com/ios_filled/1200/terraform.jpg" />
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=00d4ff"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=ffb020"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=00d4ff"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=00d4ff"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=a78bfa"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=a78bfa"/>
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-111827?style=for-the-badge&logo=azuredevops&logoColor=00d4ff"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=ffb020"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=ffffff"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=ff5f57"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=ffb020"/>
+</p>
 
+## Navigation Signals
 
+```text
+research roots       -> physics, materials science, quantum computing materials
+engineering focus    -> data pipelines, cloud platforms, orchestration, reliability
+teaching practice    -> programming, Python, SQL, ML, People Analytics
+favorite problems    -> trustworthy data, applied ML, robust workflows
+```
 
+---
 
-### **Tools** || Ferramentas
-| <img align ="center" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> | <img align="center" alt="arte-ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> | <img   align="center" alt="arte-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> | <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img   align="center" alt="arte-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: 
+<div align="center">
 
+**Building data systems with scientific curiosity and production discipline.**
 
-
-
-  ## Contact Me ||  Entre em Contato
-  <a href = "mailto:arteweyl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arteweyl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+</div>

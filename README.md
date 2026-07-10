@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/generated/galaxy-header-artemisia-weyl.svg" width="900" alt="Artemisia Weyl - Data Engineer galaxy header"/>
+  <img src="./assets/generated/galaxy-header-artemisia-weyl.svg" width="900" alt="Artemisia Weyl - Data and AI Architect galaxy header"/>
 </div>
 
 <br>
@@ -133,6 +133,59 @@ I like building systems that survive production, explaining difficult topics wit
 | **Coderhouse** | Technical Specialist and Data Instructor leading curricula and teams across Python, SQL, and Data Analytics. |
 | **TEIA** | Senior Data Engineer and Tech Lead building a scalable GCP data platform and ETL pipelines for 14 clients. |
 
+### ✦ Experience constellation · Constelação de experiências
+
+```mermaid
+flowchart TB
+    AW(("✦ Artemisia Weyl<br/>Data & AI"))
+
+    subgraph RESEARCH["🔭 RESEARCH ORBIT"]
+        IFPA["IFPA<br/>Laboratory Technician<br/>2009–2011"]
+        UFPA["UFPA<br/>Computational Physics Research<br/>2012–2017"]
+    end
+
+    subgraph DATA["🛰️ DATA & ENGINEERING ORBIT"]
+        MIHOYO["miHoYo<br/>CRM & Data Analyst<br/>2020–2021"]
+        TENCENT["Tencent<br/>Sr BI Analyst<br/>2021–2022"]
+        TEIA["TEIA<br/>Head of Data<br/>2022–2023"]
+        IBM["IBM<br/>Sr Data Platform Engineer<br/>2022–2024"]
+        SANTANDER["Santander<br/>Data Engineer Spec<br/>2024–2026"]
+    end
+
+    subgraph TEACHING["🌠 TEACHING ORBIT"]
+        BYJUS["BYJU'S<br/>Programming Professor<br/>2021–2022"]
+        CODER["Coderhouse<br/>Lead Instructor<br/>2022–2025"]
+        PUCRS["PUCRS<br/>Adjunct Professor<br/>2025–present"]
+    end
+
+    subgraph IMPACT["🌍 SOCIAL IMPACT ORBIT"]
+        REDCROSS1["Brazilian Red Cross<br/>Research & Field Data<br/>2018–2019"]
+        AUTISM["Autismo Tech<br/>Consultant<br/>2024–2025"]
+        REDCROSS2["Brazilian Red Cross<br/>State Coordinator<br/>2025"]
+        BD["Base dos Dados<br/>Data Project Leader<br/>2025–present"]
+    end
+
+    RESEARCH --> AW
+    AW --> DATA
+    AW --> TEACHING
+    AW --> IMPACT
+
+    classDef core fill:#16263d,stroke:#67e8f9,color:#ffffff,stroke-width:3px
+    classDef research fill:#2b2038,stroke:#f6c177,color:#ffffff
+    classDef data fill:#152d3f,stroke:#67e8f9,color:#ffffff
+    classDef teaching fill:#2d1d42,stroke:#c4a7e7,color:#ffffff
+    classDef impact fill:#15352f,stroke:#6ee7b7,color:#ffffff
+    class AW core
+    class IFPA,UFPA research
+    class MIHOYO,TENCENT,TEIA,IBM,SANTANDER data
+    class BYJUS,CODER,PUCRS teaching
+    class REDCROSS1,AUTISM,REDCROSS2,BD impact
+    style RESEARCH fill:#0b1020,stroke:#f6c177,color:#ffffff
+    style DATA fill:#0b1020,stroke:#67e8f9,color:#ffffff
+    style TEACHING fill:#0b1020,stroke:#c4a7e7,color:#ffffff
+    style IMPACT fill:#0b1020,stroke:#6ee7b7,color:#ffffff
+```
+
 ## 🔬 Launch sequence · Formação
 
 ```text
@@ -142,11 +195,14 @@ Physics: bachelor's + teaching degree
         ↓
 Applied Quantum Theory & Computational Modeling: master's degree
         ↓
+Complex Systems: doctorate
+        ↓
 Computer Engineering + CS50
         ↓
 Data platforms, governance, cloud, MLOps, and AI architecture
 ```
 
+- **Doctorate in Complex Systems** · USP
 - **MSc in Physics** · Applied Quantum Theory for Materials and Computational Modeling · UFPA
 - **Computer Engineering** · UFPA
 - **BSc and Teaching Degree in Physics** · UFPA

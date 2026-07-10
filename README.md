@@ -36,33 +36,81 @@
 
 ---
 
-```text
-                 ✦                 .
-       research  ──────►  engineering  ──────►  impact
-           .              ▲    │                    ✧
-                          │    ▼
-                     teaching + AI
+```mermaid
+flowchart LR
+    PHYSICS(("🔭 Physics<br/>research"))
+    CORE["🛰️ Data<br/>& AI Architecture"]
+
+    subgraph ORBIT["✦ CURRENT ORBIT ✦"]
+        direction TB
+        DATA["Data platforms"]
+        AI["Responsible AI"]
+        GOV["Governance"]
+        TEACH["Teaching"]
+    end
+
+    IMPACT(("🌍 Systems<br/>that survive<br/>production"))
+
+    PHYSICS -->|hypotheses & evidence| CORE
+    CORE --> DATA
+    CORE --> AI
+    CORE --> GOV
+    CORE --> TEACH
+    DATA --> IMPACT
+    AI --> IMPACT
+    GOV --> IMPACT
+    TEACH --> IMPACT
+
+    classDef origin fill:#17152e,stroke:#f6c177,color:#f8f8f2,stroke-width:2px
+    classDef core fill:#16263d,stroke:#67e8f9,color:#ffffff,stroke-width:3px
+    classDef orbit fill:#251b3f,stroke:#c4a7e7,color:#ffffff,stroke-width:1px
+    classDef impact fill:#15352f,stroke:#6ee7b7,color:#ffffff,stroke-width:2px
+    class PHYSICS origin
+    class CORE core
+    class DATA,AI,GOV,TEACH orbit
+    class IMPACT impact
+    style ORBIT fill:#0b1020,stroke:#c4a7e7,color:#f8f8f2,stroke-width:1px
 ```
 
 ## 🛰️ Diário de bordo · Português
 
-Sou **Arquiteta de IA e Dados e Engenheira de Dados**, com **17 anos de trajetória em STEM e 9 anos dedicados a dados**. Minha experiência cruza pesquisa científica, engenharia de software, plataformas multi-cloud, machine learning, governança e educação. Gosto de trabalhar onde problemas complexos precisam ganhar estrutura: pipelines observáveis, arquiteturas confiáveis, modelos que chegam à produção e decisões técnicas que continuam fazendo sentido depois do deploy.
+Sou Arquiteta de IA e Dados e Engenheira de Dados, com 17 anos de trajetória em STEM e 9 anos trabalhando diretamente com dados.
 
-Minha jornada começou na pesquisa em ciência dos materiais, investigando temas ligados a materiais para computação quântica. A Física me ensinou a formular boas perguntas, testar hipóteses e respeitar evidências; hoje, levo esse mesmo método para ecossistemas de dados, cloud, DataOps e MLOps.
+Comecei na Física, pesquisando ciência dos materiais e temas ligados à computação quântica. Foi ali que aprendi a formular hipóteses, testar limites e desconfiar de qualquer explicação que dependa de magia, mesmo quando ela vem acompanhada de um diagrama bonito.
 
-Também sou professora de programação e dados. Lecionei na **Byju's Future School**, participei da criação de conteúdo de **Python, SQL e Machine Learning na Coderhouse Brasil** e atuo na **PUCRS** em disciplinas práticas de programação e People Analytics. Ensinar é parte central da minha engenharia: conhecimento só completa sua órbita quando pode ser compreendido, usado e multiplicado.
+Hoje trabalho com arquitetura de dados e IA, plataformas multi-cloud, machine learning, governança, DataOps e MLOps.
 
-Já atuei em contextos financeiros críticos, educação pública, operações humanitárias, consultoria e produtos digitais. No momento, minha bússola aponta para arquiteturas de IA responsáveis, plataformas de dados resilientes, observabilidade, governança e experiências que aproximam ciência, tecnologia e pessoas.
+Gosto de problemas grandes, bagunçados e cheios de dependências escondidas. Meu trabalho costuma ser descobrir onde está o gargalo, separar complexidade real de filler e transformar isso em uma arquitetura que alguém consiga operar depois.
+
+Para mim, arquitetura boa é a que continua fazendo sentido quando o slide acaba, o dado chega atrasado, uma API cai e alguém precisa entender o que aconteceu às três da manhã.
+
+Também sou professora de programação e dados. Lecionei na Byju's Future School, produzi conteúdos de Python, SQL e Machine Learning na Coderhouse Brasil e atuo na PUCRS com programação e People Analytics.
+
+Ensinar faz parte da engenharia. Se apenas uma pessoa entende o sistema, temos um jutsu secreto de clã e um ponto único de falha.
+
+Já trabalhei com mercado financeiro, educação pública, operações humanitárias, consultoria e produtos digitais. Atualmente, concentro meu trabalho em arquiteturas responsáveis de IA, plataformas resilientes, observabilidade e governança.
+
+Gosto de construir coisas que funcionem em produção, explicar assuntos difíceis sem ritual de invocação e evitar que uma solução simples vire um arco de 200 episódios.
 
 ## 🚀 Mission log · English
 
-I am a **Data & AI Architect and Data Engineer** with **17 years across STEM and 9 years focused on data**. My experience spans scientific research, software engineering, multi-cloud platforms, machine learning, governance, and technology education. I am drawn to the point where complex problems need structure: observable pipelines, dependable architectures, production-ready models, and technical decisions that remain sound long after deployment.
+I am a Data & AI Architect and Data Engineer with 17 years across STEM and 9 years working directly with data.
 
-My journey began in materials science research, with a particular interest in materials for quantum computing. Physics taught me how to frame useful questions, test hypotheses, and follow evidence; I now bring that same discipline to cloud ecosystems, DataOps, MLOps, and large-scale data engineering.
+I started in Physics, researching materials science and topics related to quantum computing. That is where I learned to frame hypotheses, test limits, and question any explanation that depends on magic, even when it comes with a polished architecture diagram.
 
-I am also a programming and data professor. I taught at **Byju's Future School**, helped create **Python, SQL, and Machine Learning content for Coderhouse Brazil**, and teach hands-on programming labs and People Analytics at **PUCRS**. Teaching is part of how I engineer: knowledge reaches its full orbit only when others can understand it, use it, and build upon it.
+Today, I work with Data and AI architecture, multi-cloud platforms, machine learning, governance, DataOps, and MLOps.
 
-I have worked across critical financial environments, public education, humanitarian operations, consulting, and digital products. My current trajectory is centered on responsible AI architectures, resilient data platforms, observability, governance, and experiences that connect science, technology, and people.
+I enjoy large, messy problems with hidden dependencies. My job is usually to find the real bottleneck, separate actual complexity from filler, and turn the result into an architecture that people can operate after deployment.
+
+A good architecture should still make sense when the slides are gone, data arrives late, an API fails, and someone needs to understand what happened at 3 a.m.
+
+I am also a programming and data professor. I taught at Byju's Future School, created Python, SQL, and Machine Learning content for Coderhouse Brazil, and teach programming and People Analytics at PUCRS.
+
+Teaching is part of engineering. When only one person understands a system, you have a forbidden clan technique and a single point of failure.
+
+I have worked across financial systems, public education, humanitarian operations, consulting, and digital products. My current work focuses on responsible AI architectures, resilient data platforms, observability, and governance.
+
+I like building systems that survive production, explaining difficult topics without a summoning ritual, and preventing simple solutions from becoming 200-episode story arcs.
 
 ## 🪐 Current orbit · Órbita atual
 

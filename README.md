@@ -305,12 +305,12 @@ Data platforms, governance, cloud, MLOps, and AI architecture
 
 | Portal | Signal |
 | :--- | :--- |
-| [Eletropostos Brasil](https://arteweyl.github.io/eletropostosbrasil/) | Public data and visualization for electric mobility infrastructure in Brazil. |
-| [EHT MLOps Pipeline](https://arteweyl.github.io/EHT-MLOps-Pipeline/) | Reproducible MLOps inspired by Event Horizon Telescope observations. |
-| [EHT MLOps Chatbot RAG](https://arteweyl.github.io/EHT-MLOps-Chatbot-RAG-pipeline/) | Airflow, model monitoring, registry, and RAG applied to scientific results. |
+| [State of Data Brasil](https://state-of-data.artemisiaweyl.com.br/) | Public-data product that turns five years of the Brazilian data-profession survey into reproducible analysis. |
+| [Eletropostos Brasil](https://arteweyl.github.io/eletropostosbrasil/) | Data pipeline and visualization for Brazil's electric-mobility infrastructure. |
+| [EHT MLOps Chatbot RAG](https://arteweyl.github.io/EHT-MLOps-Chatbot-RAG-pipeline/) | Airflow, drift monitoring, registry, and RAG applied to auditable scientific results. |
 | [GameCerto](https://arteweyl.github.io/projeto-gameCerto/) | Hybrid lexical and semantic game recommendation running in the browser. |
-| [GameCerto AI](https://arteweyl.github.io/game-certo-ai-version/) | Experimental AI reranking with local and generative models. |
-| [Lero-Lero de Valfenda](https://arteweyl.github.io/lerolero_valfenda/) | A playful web experiment connecting language, humor, and product design. |
+| [Lero-Lero de Valfenda](https://arteweyl.github.io/lerolero_valfenda/) | A playful, local-first language experiment connecting humor, AI, and product design. |
+| [Missão Barcarena](https://github.com/arteweyl/missao_barcarena) | A reproducible public archive that turns documentary fragments into a navigable data narrative. |
 
 ## 📡 Navigation signals · Sinais de navegação
 
